@@ -1,0 +1,39 @@
+body {
+    margin: 15px auto;
+    max-width: 720px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #444;
+    padding: 0 10px;
+    height:100%;
+}
+
+article {
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer {
+    position:absolute;
+    bottom:0;
+    height:60px;
+}
+
+code {
+    font-family: "Lucida Console", monospace;
+    background-color: rgb(230, 230, 230);
+}
+
+pre {
+    background-color: rgb(230, 230, 230);
+}
+
+#home_link {
+    color: rgb(20, 20, 20);
+    text-decoration: inherit;
+}
