@@ -1,7 +1,7 @@
-## Welcome to my website
+# Welcome to my website
 
- * [The list](/interesting)
- * [Articles](/articles)
+* [The list](/interesting)
+* [Articles](/articles)
 
 ```python
 home = "abc"
