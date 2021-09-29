@@ -2,7 +2,7 @@
 
 ## Server setup
 
-To install Wireguard and the CLI utilities follow to instructions for your OS from the official website: https://www.wireguard.com/install/
+To install Wireguard and the CLI utilities follow to instructions for your OS from the official website: <https://www.wireguard.com/install/>
 
 The next step is to generate the keys:
 

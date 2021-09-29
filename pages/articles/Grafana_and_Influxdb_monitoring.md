@@ -122,7 +122,7 @@ Every panel has a high degree of customization and you can find even more option
 Now everything should be up and running, you just need to decide what information you want to see.
 
 ### External links
-* [https://www.reddit.com/r/homelab/comments/603wur/dashboard_tutorial_grafana_influxdb_and_telegraf/](https://www.reddit.com/r/homelab/comments/603wur/dashboard_tutorial_grafana_influxdb_and_telegraf/)
-* [https://www.smarthomeblog.net/openhab-persistence-grafana-dashboard/](https://www.smarthomeblog.net/openhab-persistence-grafana-dashboard/)
-* [https://lkhill.com/telegraf-influx-grafana-network-stats/](https://lkhill.com/telegraf-influx-grafana-network-stats/)
-* [https://tracyboggiano.com/archive/2018/04/guide-for-setting-up-telegraf-to-monitor-influxdb/](https://tracyboggiano.com/archive/2018/04/guide-for-setting-up-telegraf-to-monitor-influxdb/)
+* <https://www.reddit.com/r/homelab/comments/603wur/dashboard_tutorial_grafana_influxdb_and_telegraf>
+* <https://www.smarthomeblog.net/openhab-persistence-grafana-dashboard/>
+* <https://lkhill.com/telegraf-influx-grafana-network-stats/>
+* <https://tracyboggiano.com/archive/2018/04/guide-for-setting-up-telegraf-to-monitor-influxdb/>

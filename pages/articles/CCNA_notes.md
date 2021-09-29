@@ -214,7 +214,7 @@ Neighbor states:
 * DELAY -> occurs after STALE
 * PROBE -> resending NS
 
-===== Transport layer =====
+## Transport layer
 
 * Tracking individual conversations
 * Segmenting and reassembling data
