@@ -48,6 +48,7 @@
 * [Inside the Secret World of Russia's Cold War Mapmakers](https://www.wired.com/2015/07/secret-cold-war-maps/)
 * [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
 * [Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
+* [Cryptocurrency is an abject disaster](https://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.html)
 
 
 ## Information Technology
@@ -79,6 +80,8 @@
 * [WikiWikiWeb](https://wiki.c2.com/)
 * [E. W. Dijkstra Archive](https://www.cs.utexas.edu/users/EWD/)
 * [comp.lang.c Frequently Asked Questions](http://c-faq.com/)
+* [Carbon](https://carbon.now.sh/)
+* [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/)
 
 ### Articles
 
@@ -115,6 +118,11 @@
 * [Roots of Lisp](http://paulgraham.com/rootsoflisp.html)
 * [C Is Not a Low-level Language](https://queue.acm.org/detail.cfm?id=3212479)
 * [3 tribes of programming](https://josephg.com/blog/3-tribes/)
+* [Reverse engineering software licensing from early-2000s abandonware](https://yingtongli.me/blog/2021/08/29/drm5-1.html)
+* [On architecture, urban planning and software construction](tomasp.net/blog/2020/cities-and-programming)
+* [Rethinking Software Testing: Perspectives from the world of Hardware](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/)
+* [Ghosts of Unix Past: a historical search for design patterns](https://lwn.net/Articles/411845/)
+* [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/?single_page=true)
 
 ### Blogs
 
@@ -135,6 +143,7 @@
 * [Eldruin's Blog](http://blog.eldruin.com/)
 * [Peter Norvig](http://norvig.com/index.html)
 * [Pascal's scribbles](https://deterministic.space/)
+* [Huon on the internet](https://huonw.github.io/blog/)
 
 ## Amateur radio
 
