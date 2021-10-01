@@ -7,7 +7,7 @@ sudo apt-get install nfs-common
 sudo apt-get install autofs
 ```
 
-Next, modify the `/etc/auto.master` file. Add the following line:
+Next, modify the `/etc/auto.master` (or `/etc/autofs/auto.master` for Arch based distros) file. Add the following line:
 
 ```
 <mount point>  /etc/auto.nfs --timeout=0 --ghost
@@ -15,9 +15,10 @@ Next, modify the `/etc/auto.master` file. Add the following line:
 
 `/etc/auto.nsf` will be the map file(you can call it however you want), the timeout configures the time in seconds after which the share will be unmounted, 0 means never unmount, ghost creates placeholder directories for the mounts.
 
-Now you need to create the map file (/etc/auto.nfs) and add the line:
+Now you need to create the map file (/etc/auto.nfs) and add a line for every share:
 
 ```
+<mount_directory> -fstype=nfs,rw,async,vers=3 <server_address>:<server share location>
 <mount_directory> -fstype=nfs,rw,async,vers=3 <server_address>:<server share location>
 ```
 

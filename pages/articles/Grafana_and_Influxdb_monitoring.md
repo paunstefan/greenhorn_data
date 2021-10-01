@@ -109,13 +109,13 @@ systemctl restart telegraf
 As I said earlier, you can access the Grafana dashboard at `[host]:3000` and the default credentials are admin:admin. 
 
 The first step is adding a Data Source, this will be our InflluxDB database.
-![Data Source](/static/data_source.png)
+![Data Source](/static/images/data_source.png)
 
 After this, go the the plus sign on the left and create a Dashboard, in which you will create a panel.
 
 Here is an example panel for memory usage:
 
-![Dashboard](/static/dashboard.png)
+![Dashboard](/static/images/dashboard.png)
 
 Every panel has a high degree of customization and you can find even more options by adding additional plugins. 
 

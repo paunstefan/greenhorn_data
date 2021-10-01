@@ -134,7 +134,7 @@ CDP = Cisco Discovery Protocol (allows Cisco devices to share info over link-lay
 01:00:5E:... (multicast)
 
 ## Internet Protocol
-![IP Header](https://static.thegeekstuff.com/wp-content/uploads/2012/03/ip-header-2.png)
+![IP Header](/static/images/ip-header.png)
 
 * Connectionless
 * Unreliable
@@ -222,8 +222,8 @@ Neighbor states:
 
 Header size: 20 bytes TCP / 8 bytes UDP
 
-![](/static/https://www.cisco.com/c/dam/en_us/about/ac123/ac147/images/ipj/ipj_9-4/94_syn_fig1_lg.jpg)
-![](/static/http://www.bogotobogo.com/cplusplus/images/socket/TCP_DISCONNECT_TEAR_DOWN.png)
+![](/static/images/https://www.cisco.com/c/dam/en_us/about/ac123/ac147/images/ipj/ipj_9-4/94_syn_fig1_lg.jpg)
+![](/static/images/http://www.bogotobogo.com/cplusplus/images/socket/TCP_DISCONNECT_TEAR_DOWN.png)
 
 **Routers**
 * Interconnect networks
@@ -511,8 +511,8 @@ VTP modes: server, client, transparent.
 You can add extended VLANs only in transparent mode.
 
 
-![](/static/vtp.png)
-![](/static/vtp-q.png)
+![](/static/images/vtp.png)
+![](/static/images/vtp-q.png)
 
 VTP pruning = if a switch does not have ports in a specific VLAN, it does not receive broadcasts for that VLAN (even if it is in his database) -> preserves bandwidth
 
@@ -523,7 +523,7 @@ Observations:
 ### Dynamic Trunking Protocol (DTP)
 Negotiates trunking modes
 
-![](/static/dtp.png)
+![](/static/images/dtp.png)
 
   
 ## Layer 3 switching
@@ -652,8 +652,8 @@ States:
 * **Standby**
 * **Active**
 
-![](/static/hsrp.png)
-![](/static/hsrp_states.png)
+![](/static/images/hsrp.png)
+![](/static/images/hsrp_states.png)
 
 Load balancing -> set each router as active for specific VLANs
 
@@ -949,7 +949,7 @@ WAN Protocols:
 * Frame relay: data-link layer protocol that handles multiple virtual circuits
 * ATM: cell relay
 
-![](/static/hdlc_frame.png)
+![](/static/images/hdlc_frame.png)
 
 ### PPP
 Used when connection non-Cisco routers (and not only).
@@ -966,13 +966,13 @@ PPP LCP:
 * handles automatic configuration of interfaces
 * authentication, compression and others
 
-![](/static/lcp_operation.png)
+![](/static/images/lcp_operation.png)
 
 PPP NCP:
   * every L3 protocol uses a different NCP (IPv4 -> IPCP, IPv6->IPv6CP)
   * method of configuring L3 protocols; L3 protocols establish services with PPP
 
-![](/static/ncp_operation.png)
+![](/static/images/ncp_operation.png)
 
 PPP frame:
 
@@ -1047,7 +1047,7 @@ PPP putes the neighbor's IP address in the routing table as a connected interfac
 
 In a TCP 3-way handshake, the TCP maximum segment size (MSS) is negotiated. It is 'Ethernet MTU - TCP/IP headers), by default 1460. On PPPoE, the frame MTU is only 1492 (opposed to 1500) because of the size of the PPPoE header, so the MSS must be 1452.
 
-![](/static/pppoe-mtu.png)
+![](/static/images/pppoe-mtu.png)
 
 ## VPN
   * A private network created via tunneling over a public network
@@ -1117,7 +1117,7 @@ Place:
 * Extended ACL numbers: 100-199, 2000-2699
 
 Form:  access-list 101 [permit|deny] [protocol] [source] [destination] [port]
-![](/static/extended_acl.png)
+![](/static/images/extended_acl.png)
 
 You can use logical operations for ports: eq, neq, gt, lt.
 
@@ -1127,7 +1127,7 @@ You can use logical operations for ports: eq, neq, gt, lt.
 * 2 implicit permit statements and the deny statement at the end:
   * permit icmp any any nd-na
   * permit icmp any any nd-ns
-![](/static/ipv6_acl.png)
+![](/static/images/ipv6_acl.png)
 
 ## Security
 Common LAN attacks:
@@ -1270,8 +1270,8 @@ Dropped TCP segments couse TCP to reduce window size.
     * ECN (2b): used to inform routers of congestion
   * Traffic Identifier (TID)- Layer 2, used by WiFi
 
-![](/static/qos_marking.png)
-![](/static/dscp.png)
+![](/static/images/qos_marking.png)
+![](/static/images/dscp.png)
 
 * Congestion avoidance
   * Queueing and scheduling
@@ -1380,7 +1380,7 @@ If an OSI layer is working, the layers under are working.
 ## IP Service Level Agreement (IP SLA)
 * Used for monitoring
   
-![](/static/sla_sched_command.png)
+![](/static/images/sla_sched_command.png)
 
 ## Troubleshooting tools
 Software:

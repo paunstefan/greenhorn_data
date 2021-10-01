@@ -5,7 +5,7 @@ homepage = "home"
 html_template = "data/templates/template.html"
 css = "data/templates/style.css"
 list_template = "data/templates/list.html"
-media_dir = "data/pages/images"
+media_dir = "data/pages/static"
 
 [[pages]]
 name = "home"

@@ -31,6 +31,9 @@ code {
 
 pre {
     background-color: rgb(230, 230, 230);
+    overflow: auto;
+    border: 1px solid #898989;
+    padding: 4px;
 }
 
 #home_link {
