@@ -1,0 +1,12 @@
+[Unit]
+Description=Greenhorn
+After=network.target
+
+
+[Service]
+ExecStart=/home/paunstefan/greenhorn -c /home/paunstefan/greenhorn_data/Config.toml -a 0.0.0.0:80
+KillMode=process
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
