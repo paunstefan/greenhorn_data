@@ -2,22 +2,23 @@
 
 homepage = "home"
 
-html_template = "data/templates/template.html"
-css = "data/templates/style.css"
-list_template = "data/templates/list.html"
-media_dir = "data/pages/static"
+html_template = "/home/paunstefan/greenhorn_data/templates/template.html"
+css = "/home/paunstefan/greenhorn_data/templates/style.css"
+list_template = "/home/paunstefan/greenhorn_data/templates/list.html"
+media_dir = "/home/paunstefan/greenhorn_data/pages/static"
 
 [[pages]]
 name = "home"
 kind = "Single"
-source = "data/pages/home.md"
+source = "/home/paunstefan/greenhorn_data/pages/home.md"
 
 [[pages]]
 name = "articles"
 kind = "List"
-source = "data/pages/articles"
+source = "/home/paunstefan/greenhorn_data/pages/articles"
 
 [[pages]]
 name = "interesting"
 kind = "Single"
-source = "data/pages/interesting_links.md"
+source = "/home/paunstefan/greenhorn_data/pages/interesting_links.md"
+
