@@ -123,6 +123,10 @@
 * [Rethinking Software Testing: Perspectives from the world of Hardware](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/)
 * [Ghosts of Unix Past: a historical search for design patterns](https://lwn.net/Articles/411845/)
 * [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/?single_page=true)
+* [Importing Actual 3D Models From Google Maps](https://blog.exppad.com/article/importing-actual-3d-models-from-google-maps)
+* [Writing a Linux Kernel Driver for an Unknown USB Device](http://matthias.vallentin.net/blog/2007/04/writing-a-linux-kernel-driver-for-an-unknown-usb-device/)
+* [My Own Private Binary](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
+* [What really happened on Mars Rover Pathfinder](http://www.cs.cornell.edu/courses/cs614/1999sp/papers/pathfinder.html)
 
 ### Blogs
 
