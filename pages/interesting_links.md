@@ -127,6 +127,8 @@
 * [Writing a Linux Kernel Driver for an Unknown USB Device](http://matthias.vallentin.net/blog/2007/04/writing-a-linux-kernel-driver-for-an-unknown-usb-device/)
 * [My Own Private Binary](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
 * [What really happened on Mars Rover Pathfinder](http://www.cs.cornell.edu/courses/cs614/1999sp/papers/pathfinder.html)
+* [The Perils of Future-Coding](https://www.sebastiansylvan.com/post/the-perils-of-future-coding/)
+* [Everything You Never Wanted To Know About Linker Script](https://mcyoung.xyz/2021/06/01/linker-script/)
 
 ### Blogs
 
@@ -148,6 +150,7 @@
 * [Peter Norvig](http://norvig.com/index.html)
 * [Pascal's scribbles](https://deterministic.space/)
 * [Huon on the internet](https://huonw.github.io/blog/)
+* [Dawid Ciężarkiewicz aka dpc](https://dpc.pw/)
 
 ## Amateur radio
 
