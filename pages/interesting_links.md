@@ -151,7 +151,7 @@
 * [Pascal's scribbles](https://deterministic.space/)
 * [Huon on the internet](https://huonw.github.io/blog/)
 * [Dawid Ciężarkiewicz aka dpc](https://dpc.pw/)
-* [Software disenchantment](https://tonsky.me/)
+* [Tonsky](https://tonsky.me/)
 
 ## Amateur radio
 
