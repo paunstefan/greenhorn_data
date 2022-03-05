@@ -41,3 +41,7 @@ static ip_address=STATIC_IP/24
 static routers=ROUTER_IP
 static domain_name_servers=DNS_IP
 ```
+
+## Enable UART
+
+To enable UART/serial use the `raspi-config` utility. Under the `Interface options` you can enable serial and disable the console on it if you want.
