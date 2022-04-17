@@ -129,6 +129,11 @@
 * [What really happened on Mars Rover Pathfinder](http://www.cs.cornell.edu/courses/cs614/1999sp/papers/pathfinder.html)
 * [The Perils of Future-Coding](https://www.sebastiansylvan.com/post/the-perils-of-future-coding/)
 * [Everything You Never Wanted To Know About Linker Script](https://mcyoung.xyz/2021/06/01/linker-script/)
+* [How Amazon Web Services Uses Formal Methods](https://cacm.acm.org/magazines/2015/4/184701-how-amazon-web-services-uses-formal-methods/fulltext)
+* [Google Search is Dying](https://dkb.io/post/google-search-is-dying)
+* [The Long Strange Trip to Java](www.blinkenlights.com/classiccmp/javaorigin.html)
+* [No other profession trivialises their profession to the degree of software](https://ghuntley.com/squirrel-burgers)
+* [RP2040 Doom](https://kilograham.github.io/rp2040-doom/)
 
 ### Blogs
 
@@ -152,6 +157,7 @@
 * [Huon on the internet](https://huonw.github.io/blog/)
 * [Dawid Ciężarkiewicz aka dpc](https://dpc.pw/)
 * [Tonsky](https://tonsky.me/)
+* [Robs blog](https://robamu.github.io/)
 
 ## Amateur radio
 
