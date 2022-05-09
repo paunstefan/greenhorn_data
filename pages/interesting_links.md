@@ -131,7 +131,7 @@
 * [Everything You Never Wanted To Know About Linker Script](https://mcyoung.xyz/2021/06/01/linker-script/)
 * [How Amazon Web Services Uses Formal Methods](https://cacm.acm.org/magazines/2015/4/184701-how-amazon-web-services-uses-formal-methods/fulltext)
 * [Google Search is Dying](https://dkb.io/post/google-search-is-dying)
-* [The Long Strange Trip to Java](www.blinkenlights.com/classiccmp/javaorigin.html)
+* [The Long Strange Trip to Java](https://www.blinkenlights.com/classiccmp/javaorigin.html)
 * [No other profession trivialises their profession to the degree of software](https://ghuntley.com/squirrel-burgers)
 * [RP2040 Doom](https://kilograham.github.io/rp2040-doom/)
 

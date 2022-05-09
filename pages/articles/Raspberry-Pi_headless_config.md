@@ -1,10 +1,15 @@
 # Raspberry-Pi Headless config
 
-## SSH
+## UPDATE AS OF APRIL 2022
+
+The SSH, WiFi and user creation for headless installs are done only using the `rpi-imager` software, as the default `pi` user has been removed and
+there is no alternative way to configure a user without a GUI or a direct terminal connection.
+
+## SSH (obsolete)
 
 To enable SSH, go to the `boot` partition on the SD card and create an empty `ssh` file.
 
-## Wifi configuration
+## Wifi configuration (obsolete)
 
 Go to the same `boot` partition and create an `wpa_supplicant.conf` in which you will write the following:
 
@@ -19,7 +24,7 @@ network={
 
 The Pi will automatically connect to the configured network, you just need to look for its IP address.
 
-## User creation
+## User creation (obsolete)
 
 Now create a new user and add it to the `sudo` group:
 
