@@ -2,6 +2,8 @@
 
 ## Server setup
 
+### Server interface configuration
+
 To install Wireguard and the CLI utilities follow to instructions for your OS from the official website: <https://www.wireguard.com/install/>
 
 The next step is to generate the keys:
@@ -34,6 +36,8 @@ net.ipv6.conf.all.forwarding=1
 
 Now you can bring up the VPN interface with `wg-quick up wg0`.
 
+### Adding VPN peers
+
 After creating clients (next section) run the following command to add them to the server:
 ```bash
 wg set wg0 peer <client-public-key> allowed-ips <client ip address and mask>
@@ -48,6 +52,8 @@ systemctl enable wg-quick@wg0
 ```
 
 ## Client setup
+
+### Android
 
 For the client I will use the Android app.
 
@@ -67,3 +73,32 @@ Allowed IPs: <networks you want to reach from the phone (preferably VPN network)
 Endpoint: <server's address and port>
 Persistent keepalive: <25 if you want to keep the connections inside NAT>
 ```
+
+### Linux desktop
+
+Install `wireguard` from your distro's package manager (<https://www.wireguard.com/install/>).
+
+Firstly generate the key pair:
+
+```bash
+wg genkey | sudo tee /etc/wireguard/private.key
+sudo chmod go= /etc/wireguard/private.key
+sudo cat /etc/wireguard/private.key | wg pubkey | sudo tee /etc/wireguard/public.key
+```
+
+Now you need to create the peer configuration file for the interface (`/etc/wireguard/wg0.conf`):
+
+```
+[Interface]
+PrivateKey = <key from /etc/wireguard/public.key>
+Address = <client's address, same network as the server>
+
+[Peer]
+PublicKey = <server's public key>
+AllowedIPs = <networks you want to reach from the phone (preferably VPN network), or 0.0.0.0/0 for all>
+Endpoint = <server's address and port>
+```
+
+Now go back to the `Adding VPN peers` in the Server section to add the newly created peer.
+
+To connect to the VPN use: `sudo wg-quick up wg0`. `sudo wg-quick down wg0` to disconnect.
