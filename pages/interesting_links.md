@@ -30,6 +30,7 @@
 * [Wiby - Small websites search engine](https://wiby.me/)
 * [The Webtender](https://www.webtender.com)
 * [immersive math](http://immersivemath.com/ila/index.html)
+* [Show your stripes](https://showyourstripes.info/s/globe/)
 
 ### Articles & Wikipedia pages
 
@@ -49,6 +50,7 @@
 * [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
 * [Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
 * [Cryptocurrency is an abject disaster](https://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.html)
+* [Why men love war](https://www.esquire.com/news-politics/news/a28718/why-men-love-war/)
 
 
 ## Information Technology
@@ -134,6 +136,8 @@
 * [The Long Strange Trip to Java](https://www.blinkenlights.com/classiccmp/javaorigin.html)
 * [No other profession trivialises their profession to the degree of software](https://ghuntley.com/squirrel-burgers)
 * [RP2040 Doom](https://kilograham.github.io/rp2040-doom/)
+* [I've been writing ring buffers wrong all these years](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers)
+* [Advent of Code 2021 in Rust before Python can start](https://programsareproofs.com/articles/aoc_2021.html)
 
 ### Blogs
 
