@@ -40,7 +40,7 @@ Now you can bring up the VPN interface with `wg-quick up wg0`.
 
 After creating clients (next section) run the following command to add them to the server:
 ```bash
-wg set wg0 peer <client-public-key> allowed-ips <client ip address and mask>
+wg set wg0 peer <client-public-key> allowed-ips <client ip address>/32
 ```
 
 You can see your status with `wg`.
@@ -64,7 +64,7 @@ After downloading the app click on the blue plus sign and select Create from scr
 Name: wg0
 Private key: [Click GENERATE]
 Public key: [Click GENERATE]
-Address: <client's address, same network as the server>
+Address: <client's address, same as peer address on server>
 DNS servers: 1.1.1.1
 
 #Peer
@@ -91,7 +91,7 @@ Now you need to create the peer configuration file for the interface (`/etc/wire
 ```
 [Interface]
 PrivateKey = <key from /etc/wireguard/public.key>
-Address = <client's address, same network as the server>
+Address = <client's address, same as peer address on serve>
 
 [Peer]
 PublicKey = <server's public key>
