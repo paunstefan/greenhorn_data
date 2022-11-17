@@ -2,7 +2,7 @@
 
 ## Miscellaneous
 
-### Webpages
+### Websites
 
 * [It Runs Doom](http://itrunsdoom.tumblr.com/)
 * [Apollo 17 in real time](http://apollo17.org/)
@@ -31,6 +31,7 @@
 * [The Webtender](https://www.webtender.com)
 * [immersive math](http://immersivemath.com/ila/index.html)
 * [Show your stripes](https://showyourstripes.info/s/globe/)
+* [Vimm's lair](https://vimm.net/)
 
 ### Articles & Wikipedia pages
 
@@ -51,11 +52,13 @@
 * [Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
 * [Cryptocurrency is an abject disaster](https://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.html)
 * [Why men love war](https://www.esquire.com/news-politics/news/a28718/why-men-love-war/)
+* [GPS](https://ciechanow.ski/gps)
+* [The Structure of Heaven and Earth: How Ancient Cosmology Shaped Everyone’s Theology](https://isthatinthebible.wordpress.com/2019/08/17/the-structure-of-heaven-and-earth-how-ancient-cosmology-shaped-everyones-theology)
 
 
 ## Information Technology
 
-### Webpages
+### Websites
 
 * [RETRO DECnet](http://decnet.ipv7.net/docs-en.html)
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
@@ -138,6 +141,14 @@
 * [RP2040 Doom](https://kilograham.github.io/rp2040-doom/)
 * [I've been writing ring buffers wrong all these years](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers)
 * [Advent of Code 2021 in Rust before Python can start](https://programsareproofs.com/articles/aoc_2021.html)
+* [I wish my web server were in the corner of my room](https://interconnected.org/home/2022/10/10/servers)
+* [Systems Past: the only 8 software innovations we actually use](davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
+* [Rust in perspective](https://people.kernel.org/linusw/rust-in-perspective)
+* [On ELF](https://kestrelcomputer.github.io/kestrel/2018/01/29/on-elf)
+* [Designing better file organization around tags, not hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
+* [Tanenbaum-Torvalds Debate Part II](https://www.cs.vu.nl/~ast/reliable-os/)
+* [From Junior to Genius: an optimization story](https://itnext.io/from-junior-to-genius-an-optimization-story-ab20afc8159d)
+* [Programmer's critique of missing structure of operating systems](blog.rfox.eu/en/Programming/Programmers_critique_of_missing_structure_of_operating_systems.html)
 
 ### Blogs
 
@@ -162,6 +173,8 @@
 * [Dawid Ciężarkiewicz aka dpc](https://dpc.pw/)
 * [Tonsky](https://tonsky.me/)
 * [Robs blog](https://robamu.github.io/)
+* [Ted Kaminski](https://www.tedinski.com/)
+* [Drew DeVault](https://drewdevault.com/)
 
 ## Amateur radio
 
