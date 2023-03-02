@@ -1,4 +1,4 @@
-# Raspberry Pi 3 U-boot
+# Raspberry Pi 3 U-Boot
 
 This is a tutorial on how to boot a Linux system on a Raspberry Pi 3 using U-boot.
 
