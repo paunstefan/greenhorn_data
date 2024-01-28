@@ -2,7 +2,7 @@
 
 ## M31
 
-![M31](/static/images/m31_2.jpg)
+![M31](/static/images/m31_2.jpg){width=800}
 
 ```
 Canon 600D
