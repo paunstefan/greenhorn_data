@@ -22,3 +22,8 @@ name = "interesting"
 kind = "Single"
 source = "/home/paunstefan/greenhorn_data/pages/interesting_links.md"
 
+[[pages]]
+name = "astrophotography"
+kind = "Single"
+source = "/home/paunstefan/greenhorn_data/pages/astrophotography.md"
+

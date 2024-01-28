@@ -1,4 +1,5 @@
-# Welcome to my website
+# Welcome
 
 * [The list](/interesting)
 * [Articles](/articles)
+* [Astrophotography](/astrophotography)

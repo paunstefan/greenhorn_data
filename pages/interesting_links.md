@@ -32,6 +32,7 @@
 * [immersive math](http://immersivemath.com/ila/index.html)
 * [Show your stripes](https://showyourstripes.info/s/globe/)
 * [Vimm's lair](https://vimm.net/)
+* [Mpierre's Analysis of the Babylon 5 Episodes](http://mpierre.com/index.php?id=23)
 
 ### Articles & Wikipedia pages
 
@@ -45,7 +46,6 @@
 * [We are nature](https://aeon.co/essays/even-the-anthropocene-is-nature-at-work-transforming-itself)
 * [The Great Acceleration](https://futureearth.org/2015/01/16/the-great-acceleration/)
 * [The Soviet InterNyet](https://aeon.co/essays/how-the-soviets-invented-the-internet-and-why-it-didnt-work)
-* [Why Socialism?](https://monthlyreview.org/2009/05/01/why-socialism/)
 * [How can we tell what resolution a game is rendering?](https://www.neogaf.com/threads/how-can-we-tell-what-resolution-a-game-is-rendering.680289/)
 * [Inside the Secret World of Russia's Cold War Mapmakers](https://www.wired.com/2015/07/secret-cold-war-maps/)
 * [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/)
@@ -54,9 +54,10 @@
 * [Why men love war](https://www.esquire.com/news-politics/news/a28718/why-men-love-war/)
 * [GPS](https://ciechanow.ski/gps)
 * [The Structure of Heaven and Earth: How Ancient Cosmology Shaped Everyone’s Theology](https://isthatinthebible.wordpress.com/2019/08/17/the-structure-of-heaven-and-earth-how-ancient-cosmology-shaped-everyones-theology)
+* [Orbital mechanics](http://www.braeunig.us/space/orbmech.htm)
 
 
-## Information Technology
+## Technology
 
 ### Websites
 
@@ -87,6 +88,7 @@
 * [comp.lang.c Frequently Asked Questions](http://c-faq.com/)
 * [Carbon](https://carbon.now.sh/)
 * [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/)
+* [Suckless](http://suckless.org/)
 
 ### Articles
 
@@ -149,6 +151,11 @@
 * [Tanenbaum-Torvalds Debate Part II](https://www.cs.vu.nl/~ast/reliable-os/)
 * [From Junior to Genius: an optimization story](https://itnext.io/from-junior-to-genius-an-optimization-story-ab20afc8159d)
 * [Programmer's critique of missing structure of operating systems](blog.rfox.eu/en/Programming/Programmers_critique_of_missing_structure_of_operating_systems.html)
+* [Pointers Are Complicated](https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html)
+* [Let's agree to be different. On empirical and deductive nature of coding.](https://rpeszek.github.io/posts/2022-11-07-empirical-programming.html)
+* [Loops Invariants, Correctness, and Program Derivation](https://archives.evergreen.edu/webpages/curricular/2001-2002/dsa01/loops.html)
+* [The History and Legacy of Visual Basic](https://retool.com/visual-basic)
+* [Every 7.8μs your computer’s memory has a hiccup](https://blog.cloudflare.com/every-7-8us-your-computers-memory-has-a-hiccup/)
 
 ### Blogs
 
@@ -175,6 +182,7 @@
 * [Robs blog](https://robamu.github.io/)
 * [Ted Kaminski](https://www.tedinski.com/)
 * [Drew DeVault](https://drewdevault.com/)
+* [research!rsc](https://research.swtch.com/)
 
 ## Amateur radio
 
